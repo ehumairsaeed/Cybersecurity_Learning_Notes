@@ -43,7 +43,7 @@ In this section of the course I have learned that how can we ssecure our offices
 - How many types of physical security threats   
 - How all the security threats can be implemented 
 - How to avoid these threats 
-- HOw to become saffer from these threats 
+- How to become saffer from these threats 
 
 **🔑 Important Terms:**  
 | Term | Meaning |

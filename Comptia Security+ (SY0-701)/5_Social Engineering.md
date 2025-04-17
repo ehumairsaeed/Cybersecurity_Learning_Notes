@@ -34,7 +34,7 @@
 24. Conclusion
 
 ---
-### ✏️ Section: [SECTION NAME]
+### ✏️ Section: Social Engineering
 
 **📌 Summary:**  
 In this section of the course i have learned about a social engeneering and how it will work and how how the attacker user this to get more details and critical information about a person and their card details and also i have covered the types  of the social engeneering in it and how to prevent it and also learned how to counduct a antti phishing campain
@@ -48,7 +48,6 @@ In this section of the course i have learned about a social engeneering and how 
 - Conduting anti Phishing Campain
 - Fraud and Scams
 - Differ b/w Misinformation and Disinformation
-- 
 
 **🔑 Important Terms:**  
 | Term | Meaning |

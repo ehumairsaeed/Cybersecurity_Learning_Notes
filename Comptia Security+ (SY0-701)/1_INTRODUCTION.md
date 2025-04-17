@@ -34,7 +34,7 @@
 24. Conclusion
 
 ---
-### ✏️ Section: [SECTION NAME]
+### ✏️ Section: Introduction
 
 **📌 Summary:**  
 In the introduction section of the comptia security+ course i have learned about the secuirty+ basics and some fundamentals of security+ certifications and also learned about the exam tips 
