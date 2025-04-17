@@ -39,68 +39,68 @@
 
 # Dictionary
 
-# info ={
-#     "name" : "Umair Saeed",
-#     "cgpa" : 96.4,
-#     "key" : "value",
-#     "is_Adult" : True,
-#     "age" : 89    
-# }
+ info ={
+    "name" : "Umair Saeed",
+     "cgpa" : 96.4,
+    "key" : "value",
+     "is_Adult" : True,
+     "age" : 89    
+ }
 
-# print(info["name"])
+ print(info["name"])
 
 # NESTED DICTIONARY 
 
-# info={
-#     "name" : "ABC",
-#     "age" : 56,
-#     "marks" : {
-#         "phy" : 89,
-#         "chem" : 56,
-#         "comp" : 100,
-#         "bio" : 56
-#     },
-#     "class" : "online",
-#     "time" : 10.55,
-# }
+ info={
+    "name" : "ABC",
+     "age" : 56,
+     "marks" : {
+         "phy" : 89,
+         "chem" : 56,
+         "comp" : 100,
+         "bio" : 56
+     },
+     "class" : "online",
+     "time" : 10.55,
+ }
 
-# print(info)
+ print(info)
 # Dictionary Methods
 
-# print(info.keys())
-# print(info.values())
+ print(info.keys())
+ print(info.values())
 
 # sets 
 
-# coll={1,2,3,4,5,6,7,8,9,2,3,3,}
-# coll.add(896)
-# coll.add(897)
-# coll.add(898)
-# coll.remove(898)
-# print(coll)
+ coll={1,2,3,4,5,6,7,8,9,2,3,3,}
+ coll.add(896)
+ coll.add(897)
+ coll.add(898)
+ coll.remove(898)
+ print(coll)
 
 # Practice programs 
 
-# words={
-#     "table" : ["a piece of furniture", "list of fact and figures"],
-#     "cat" : "a small animal"
-# }
+ words={
+     "table" : ["a piece of furniture", "list of fact and figures"],
+     "cat" : "a small animal"
+ }
 
-# print(words)
+ print(words)
 
 
-# set={"python" , "java", "C++","python","javascript","java","python","java","C++","C"}
-# print(len(set))
+ set={"python" , "java", "C++","python","javascript","java","python","java","C++","C"}
+ print(len(set))
 
-# mark={}
+ mark={}
 
-# phy=int(input("Enter Marks of Physics :"))
-# mark.update({"phy" : phy}) 
+ phy=int(input("Enter Marks of Physics :"))
+ mark.update({"phy" : phy}) 
 
-# chem=int(input("Enter Marks of Chemistry :"))
-# mark.update({"chem" : chem}) 
+ chem=int(input("Enter Marks of Chemistry :"))
+mark.update({"chem" : chem}) 
 
-# bio=int(input("Enter Marks of Physics :"))
-# mark.update({"bio" : bio}) 
+ bio=int(input("Enter Marks of Physics :"))
+ mark.update({"bio" : bio}) 
 
-# print(mark)
+ print(mark)
