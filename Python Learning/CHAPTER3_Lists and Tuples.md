@@ -36,89 +36,88 @@
 - Practice Programs
 
 
-## Practice code:
+# Practice code:
 
 
 
-# Data Storing with variables
+ Data Storing with variables
 
-# marks1=81
-# marks2=80
-# marks3=85
-# marks4=79
-# marks5=96
+ marks1=81
+ marks2=80
+ marks3=85
+ marks4=79
+ marks5=96
 
-# Data Storing With list
+ Data Storing With list
+ marks=[96,78,56,45,73]
 
-# marks=[96,78,56,45,73]
+ print(marks)
 
-# # print(marks)
+ print(marks[3])
 
-# print(marks[3])
+ Multiple Data Type List
 
-# Multiple Data Type List
+ student=["Umair", 90, "Pakistan"]
 
-# student=["Umair", 90, "Pakistan"]
+ print(student[2])
 
-# print(student[2])
+ changing value 
 
-# # changing value 
+ student[2]="Dubai"
+ print(student)
 
-# student[2]="Dubai"
-# print(student)
+ List Slicing 
 
-# List Slicing 
+ marks=[12,153,1274,214,24567,235,2124,24]
 
-# marks=[12,153,1274,214,24567,235,2124,24]
+ print(marks[2:6])
 
-# print(marks[2:6])
+ List Method 
 
-# List Method 
-
-# list=[1,2,35,478,54]
-# list.append(96)
-# list.sort(reverse=True)
-# print(list)
-
-
-# Tuples 
-
-# tup=(96,86,456,24,322,47,57,581,24)
-# print(tup[3])
-# print(type(tup))
+ list=[1,2,35,478,54]
+ list.append(96)
+ list.sort(reverse=True)
+ print(list)
 
 
-# A program which ask user to input their 3 movies names
+ Tuples 
 
-# mo1=input("Enter The name of 1st Movie :")
-# mo2=input("Enter The name of 2nd Movie :")
-# mo3=input("Enter The name of 3rd Movie :")
-
-# movi=[mo1,mo2,mo3]
-# print(movi)
+ tup=(96,86,456,24,322,47,57,581,24)
+ print(tup[3])
+ print(type(tup))
 
 
-# A Program That check a list contatain Palendrom
+ A program which ask user to input their 3 movies names
 
-# list=[1,2,1]
-# list1=list.copy()
-# print(list)
-# print(list1)
-# list1.reverse()
-# if(list==list1):
-#     print("The List is Panlindrome")
-# else:
-#     print("The List is Not a Panlindrome")
+ mo1=input("Enter The name of 1st Movie :")
+ mo2=input("Enter The name of 2nd Movie :")
+ mo3=input("Enter The name of 3rd Movie :")
+
+ movi=[mo1,mo2,mo3]
+ print(movi)
 
 
-# A program that count the number of students with thw grade A in a tuple
+ A Program That check a list contatain Palendrom
 
-# grade=("A","B","C","F","T","A","U","A")
-# letter=grade.count("A")
-# print(letter)
+ list=[1,2,1]
+ list1=list.copy()
+ print(list)
+ print(list1)
+ list1.reverse()
+ if(list==list1):
+     print("The List is Panlindrome")
+ else:
+     print("The List is Not a Panlindrome")
 
-# A program that gives values in "A" to "D"
 
-# grade=["A","B","C","F","T","U","D"]
-# grade.sort()
-# print(grade)
+ A program that count the number of students with thw grade A in a tuple
+
+ grade=("A","B","C","F","T","A","U","A")
+ letter=grade.count("A")
+ print(letter)
+
+ A program that gives values in "A" to "D"
+
+ grade=["A","B","C","F","T","U","D"]
+ grade.sort()
+ print(grade)

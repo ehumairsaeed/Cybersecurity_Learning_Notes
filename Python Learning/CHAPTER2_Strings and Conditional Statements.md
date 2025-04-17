@@ -33,45 +33,45 @@
 - Conditional Statements 
 
 
-## Practice code:
+# Practice code:
 
 
-# name=input("Enter Your Name :")
-# length=int(len(name))
+ name=input("Enter Your Name :")
+ length=int(len(name))
 
-# print("The length of your name is :" , length)
-
-
-# num=int(input("Enter a Number to check even or odd :"))
-
-# if(num%2==0):
-#     print("The Numnber is Even")
-# else:
-#     print("The Number is Odd")
+ print("The length of your name is :" , length)
 
 
+ num=int(input("Enter a Number to check even or odd :"))
 
-# num1=int(input("Enter Number1 :"))
-# num2=int(input("Enter Number2 :"))
-# num3=int(input("Enter Number3 :"))
-# num4=int(input("Enter Number4 :"))
-
-
-# if(num1>=num2 and num1>=num3 and num1>=num4):
-#     print("Gretest Number is :" , num1)
-# elif(num2>=num3 and num2>=num4):
-#     print("Gretest Number is :" , num2)
-# elif(num3>=num4):
-#     print("Gretest Number is :" , num3)
-# else:
-#     print("Gretest Number is :" , num4)
+ if(num%2==0):
+     print("The Numnber is Even")
+ else:
+     print("The Number is Odd")
 
 
-# num=int(input("Enter a Number :"))
-# rem=num%7
-# if(rem==0):
-#     print("The Entered Number is a numtiple of 7")
-# else:
-#     print("The Entered Number is Not a numtiple of 7")
+
+ num1=int(input("Enter Number1 :"))
+ num2=int(input("Enter Number2 :"))
+ num3=int(input("Enter Number3 :"))
+ num4=int(input("Enter Number4 :"))
+
+
+ if(num1>=num2 and num1>=num3 and num1>=num4):
+     print("Gretest Number is :" , num1)
+ elif(num2>=num3 and num2>=num4):
+     print("Gretest Number is :" , num2)
+ elif(num3>=num4):
+     print("Gretest Number is :" , num3)
+ else:
+     print("Gretest Number is :" , num4)
+
+
+ num=int(input("Enter a Number :"))
+ rem=num%7
+ if(rem==0):
+     print("The Entered Number is a numtiple of 7")
+ else:
+     print("The Entered Number is Not a numtiple of 7")
 
 

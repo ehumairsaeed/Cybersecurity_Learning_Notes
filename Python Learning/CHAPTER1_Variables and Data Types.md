@@ -44,99 +44,99 @@
 
 
 
-## Practice code:
+# Practice code:
 
 
-# print("Hello World")
-# print("My name is umair." , "My name is umair." , "My name is umair.")
-# print(233369)
+ print("Hello World")
+ print("My name is umair." , "My name is umair." , "My name is umair.")
+ print(233369)
 
-#variables 
+variables 
 
-# name = "Umair"
-# age = 20
-# hight= 30.9
-# new = False
-# aa = None
+ name = "Umair"
+ age = 20
+ hight= 30.9
+ new = False
+ aa = None
 
-# # print("My name is :" , name)
-# # print("My age is :" , age)
-# # print("My hight is :" , hight)
-# # print("My name is :" , name , "AND  " "My age is :", age , "AND  " "My hight is :" , hight)
+ print("My name is :" , name)
+ print("My age is :" , age)
+ print("My hight is :" , hight)
+ print("My name is :" , name , "AND  " "My age is :", age , "AND  " "My hight is :" , hight)
 
-# # Check DATA TYPE
-# print(type(name))
-# print(type(age))
-# print(type(hight))
-# print(type(new))
-# print(type(aa))
+ Check DATA TYPE
+ print(type(name))
+ print(type(age))
+ print(type(hight))
+ print(type(new))
+ print(type(aa))
 
-#Program SUM OF TWO NUMBER OR DIFFER OF TWO NUMBERS 
+Program SUM OF TWO NUMBER OR DIFFER OF TWO NUMBERS 
 
-# a=1000
-# b=500
-# differ=a-b
-# print(differ)
+ a=1000
+ b=500
+ differ=a-b
+ print(differ)
 
-#INPUT INTO VARIABLE
+INPUT INTO VARIABLE
 
-# name = input("Name :")
-# age = int(input("Age :"))
-# height = float(input("Height :"))
+ name = input("Name :")
+ age = int(input("Age :"))
+ height = float(input("Height :"))
 
-# print("Your Name is :" , name)
-# print("Your Age is :" , age)
-# print("Your Height is :" , height)
-
-
+ print("Your Name is :" , name)
+ print("Your Age is :" , age)
+ print("Your Height is :" , height)
 
 
-# #Conditional Statement 
-
-# light = input("Whats the Colour of Light :")
-# if(light == "red" or light=="RED" or light=="Red"):
-#     print("stop")
-# elif(light == "yellow" or light=="YELLOW" or light=="Yellow"):
-#     print("Look Around")
-# elif(light == "green" or light=="GREEN" or light=="Green"):
-#     print("Go Fast")
-# else:
-#     print("Light is Broken")
-
-#PROGRAM TO INPUT 2 NUMBERS AND PRINT THEIR SUM 
-
-# num1 = int(input("Enter Your First Num :"))
-# num2 = int(input("Enter Your Second Num :"))
-
-# sum = num1 + num2
-
-# print("The Sum of the Two Numbers is this :" , sum)
 
 
-#Program to find the area of square
+## Conditional Statement 
 
-# side = float(input("ENTER THE VALUE OF SIDE :"))
+ light = input("Whats the Colour of Light :")
+ if(light == "red" or light=="RED" or light=="Red"):
+     print("stop")
+ elif(light == "yellow" or light=="YELLOW" or light=="Yellow"):
+     print("Look Around")
+ elif(light == "green" or light=="GREEN" or light=="Green"):
+     print("Go Fast")
+ else:
+     print("Light is Broken")
 
-# area = side * side
+PROGRAM TO INPUT 2 NUMBERS AND PRINT THEIR SUM 
 
-# print("THE AREA OF THE SQUARE IS :" , area)
+ num1 = int(input("Enter Your First Num :"))
+ num2 = int(input("Enter Your Second Num :"))
 
-#Program to print the average of two float values
+ sum = num1 + num2
 
-# num1 = float(input("ENTER THE NUMBER :"))
-# num2 = float(input("ENTER THE NUMBER :"))
-
-# avg= (num1+num2)/2
-# print("THATS THE AVG OF TWO VALUES :" , avg)
+ print("The Sum of the Two Numbers is this :" , sum)
 
 
-#TRUE FALSE PROGRAM 
+Program to find the area of square
 
-# num1 = int(input("ENTER FIRST NUM :"))
-# num2 = int(input("ENTER Second NUM :"))
+ side = float(input("ENTER THE VALUE OF SIDE :"))
 
-# if(num1>=num2):
-#     print("TRUE")
-# else:
-#     print("FALSE")
+ area = side * side
+
+ print("THE AREA OF THE SQUARE IS :" , area)
+
+Program to print the average of two float values
+
+ num1 = float(input("ENTER THE NUMBER :"))
+ num2 = float(input("ENTER THE NUMBER :"))
+
+ avg= (num1+num2)/2
+ print("THATS THE AVG OF TWO VALUES :" , avg)
+
+
+## TRUE FALSE PROGRAM 
+
+ num1 = int(input("ENTER FIRST NUM :"))
+ num2 = int(input("ENTER Second NUM :"))
+
+ if(num1>=num2):
+     print("TRUE")
+ else:
+     print("FALSE")
 
