@@ -46,7 +46,7 @@ def calc_sum(a,b):
     print(sum)
     return sum
 
-Using Funtion 
+#### Using Funtion 
 
 calc_sum(5,9)
 
@@ -59,7 +59,7 @@ d=int(input("NUMBER :"))
 b= check(c,d)
 print(b)
 
-Program to get a avarage of 3 numbers 
+#### Program to get a avarage of 3 numbers 
 
 def avgf(a,b,c):
     av=(a+b+c)/3
@@ -72,7 +72,7 @@ c=int(input("ENTER NUMBER3 :"))
 avg = int(avgf(a,b,c))
 print(avg)
 
-Program to print the length of list
+#### Program to print the length of list
 
 l=[2,3,5,4,5,6,8,9,6,2,41,5,66,3,5,1,2,3,5,565,56,56,56,565,121,454,21,545,5]
 b=[1,2,45,4,5,6,3,2,1,4,56,2,14,4,55,14,5,221,5]
@@ -83,7 +83,7 @@ def leng(list):
 print(leng(l))
 print(leng(b))
 
-Program to print element of list in single line 
+#### Program to print element of list in single line 
 
 b=[1,2,4,4,5,6,3,2]
 
@@ -94,7 +94,7 @@ def elem(list):
 
 elem(b)
 
-Program to calculate the factorial of number n
+#### Program to calculate the factorial of number n
 
 a=int(input("ENTER NUMBER1 :"))
 
@@ -107,7 +107,7 @@ def fact(a):
 print(fact(a))    
     
 
-Program to convert USD to PKR
+#### Program to convert USD to PKR
 
 usd=int(input("ENTER AMOUNT IN USD :"))
 pkr=int(input("ENTER TODAY USD RATE IN PKR :"))
@@ -119,7 +119,7 @@ def curr(a,b):
 print(usd ,"USD =" , curr(usd,pkr),"PKR")
 
 
-Program to check the number is even or odd
+#### Program to check the number is even or odd
 num=int(input("ENTER NUMBER :"))
 
 def odev(a):
@@ -130,7 +130,7 @@ def odev(a):
 
 odev(num)
 
-## Recursion
+### Recursion
 
 n=6
 
@@ -143,7 +143,7 @@ def fact(a):
 print(fact(n))
 
 
-Program to calculate the sum of first to n of natural numbers 
+#### Program to calculate the sum of first to n of natural numbers 
 
 n=int(input("ENTER A NUMBER :"))
 
@@ -156,7 +156,7 @@ def fact(a):
 print(fact(n))
 
 
-Program write a recursive  function to print all list elements
+#### Program write a recursive  function to print all list elements
 
 l = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 

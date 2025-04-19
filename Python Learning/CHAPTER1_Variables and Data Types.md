@@ -51,7 +51,7 @@
  print("My name is umair." , "My name is umair." , "My name is umair.")
  print(233369)
 
-variables 
+#### variables 
 
  name = "Umair"
  age = 20
@@ -64,21 +64,21 @@ variables
  print("My hight is :" , hight)
  print("My name is :" , name , "AND  " "My age is :", age , "AND  " "My hight is :" , hight)
 
- Check DATA TYPE
+#### Check DATA TYPE
  print(type(name))
  print(type(age))
  print(type(hight))
  print(type(new))
  print(type(aa))
 
-Program SUM OF TWO NUMBER OR DIFFER OF TWO NUMBERS 
+#### Program SUM OF TWO NUMBER OR DIFFER OF TWO NUMBERS 
 
  a=1000
  b=500
  differ=a-b
  print(differ)
 
-INPUT INTO VARIABLE
+#### INPUT INTO VARIABLE
 
  name = input("Name :")
  age = int(input("Age :"))
@@ -91,7 +91,7 @@ INPUT INTO VARIABLE
 
 
 
-## Conditional Statement 
+#### Conditional Statement 
 
  light = input("Whats the Colour of Light :")
  if(light == "red" or light=="RED" or light=="Red"):
@@ -103,7 +103,7 @@ INPUT INTO VARIABLE
  else:
      print("Light is Broken")
 
-PROGRAM TO INPUT 2 NUMBERS AND PRINT THEIR SUM 
+#### PROGRAM TO INPUT 2 NUMBERS AND PRINT THEIR SUM 
 
  num1 = int(input("Enter Your First Num :"))
  num2 = int(input("Enter Your Second Num :"))
@@ -113,7 +113,7 @@ PROGRAM TO INPUT 2 NUMBERS AND PRINT THEIR SUM
  print("The Sum of the Two Numbers is this :" , sum)
 
 
-Program to find the area of square
+#### Program to find the area of square
 
  side = float(input("ENTER THE VALUE OF SIDE :"))
 
@@ -121,7 +121,7 @@ Program to find the area of square
 
  print("THE AREA OF THE SQUARE IS :" , area)
 
-Program to print the average of two float values
+#### Program to print the average of two float values
 
  num1 = float(input("ENTER THE NUMBER :"))
  num2 = float(input("ENTER THE NUMBER :"))
@@ -130,7 +130,7 @@ Program to print the average of two float values
  print("THATS THE AVG OF TWO VALUES :" , avg)
 
 
-## TRUE FALSE PROGRAM 
+#### TRUE FALSE PROGRAM 
 
  num1 = int(input("ENTER FIRST NUM :"))
  num2 = int(input("ENTER Second NUM :"))

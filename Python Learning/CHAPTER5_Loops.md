@@ -63,7 +63,7 @@ while i>=1:
     i-=1
 print("Loop Ended") 
 
-Program Print number from 1 to 100
+#### Program Print number from 1 to 100
 
 i=1
 while i<=100:
@@ -71,7 +71,7 @@ while i<=100:
     i+=1
 print("Loop End")
 
-Program Print number from 100 to 1
+#### Program Print number from 100 to 1
 
 i=100
 while i>=1:
@@ -79,7 +79,7 @@ while i>=1:
     i-=1
 print("Loop End")
 
-Program to get a multiple of number n
+#### Program to get a multiple of number n
 
 n=int(input("Enter Number to Print Table :"))
 i=1
@@ -89,7 +89,7 @@ while i<=10:
 print("Your Table is END")
 
 
-Program to print list numbers
+#### Program to print list numbers
 
 num=[1,4,9,16,25,36,49,64,81,100]
 idex=0
@@ -100,7 +100,7 @@ while idex <=len(num)-1:
 
 print("Loop END")
 
-Program to search number x from tuple
+#### Program to search number x from tuple
 
 num1=int(input("ENTER NUM1 :"))
 num2=int(input("ENTER NUM2 :"))
@@ -120,7 +120,7 @@ while i<len(num):
     i+=1
 
 
-Break
+#### Break
 
 i=1
 while i<=5:
@@ -138,7 +138,7 @@ tup=(1,2,3,4,5,6,7,8,9)
 for val in tup:
     print(val)
 
-Program to print numbers in list
+#### Program to print numbers in list
 
 list=[1,2,3,4,5,6,7,8,9]
 
@@ -147,7 +147,7 @@ for char in list:
 
 print("END")
 
-Program to search numbers in tuple
+#### Program to search numbers in tuple
 
 num1=int(input("ENTER NUM1 :"))
 num2=int(input("ENTER NUM2 :"))
@@ -175,23 +175,23 @@ for i in range(10):
     print(i)
 
 
-Program print number from 1 to 100
+#### Program print number from 1 to 100
 
 for i in range(1,101):
     print(i)
 
-Program print number from 100 to 1
+#### Program print number from 100 to 1
 
 for i in range(100,0, -1):
     print(i)
 
-Program print multiplication number of n
+#### Program print multiplication number of n
 n=int(input("ENTER NUMBER TO GET TABLE :"))
 for i in range(1,11):
     print(n ,"X" ,i,"=",n*i )
 
 
-Program print the sum of number n
+#### Program print the sum of number n
 
 n=int(input("ENTER NUMBER :"))
 sum=0
@@ -201,7 +201,7 @@ while i<=n:
     i +=1
 print("TOTAL SUM IS THIS :" , sum)
 
-Program to find factorial of number x
+#### Program to find factorial of number x
 
 x=int(input("ENTER NUMBER :"))
 fact=1

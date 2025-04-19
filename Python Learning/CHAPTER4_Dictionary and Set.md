@@ -37,7 +37,7 @@
 ## Practice code:
 
 
- Dictionary
+#### Dictionary
 
  info ={
     "name" : "Umair Saeed",
@@ -49,7 +49,7 @@
 
  print(info["name"])
 
- NESTED DICTIONARY 
+#### NESTED DICTIONARY 
 
  info={
     "name" : "ABC",
@@ -65,12 +65,12 @@
  }
 
  print(info)
-Dictionary Methods
+#### Dictionary Methods
 
  print(info.keys())
  print(info.values())
 
- sets 
+#### sets 
 
  coll={1,2,3,4,5,6,7,8,9,2,3,3,}
  coll.add(896)
@@ -79,7 +79,7 @@ Dictionary Methods
  coll.remove(898)
  print(coll)
 
- Practice programs 
+#### Practice programs 
 
  words={
      "table" : ["a piece of furniture", "list of fact and figures"],
