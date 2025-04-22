@@ -1,6 +1,6 @@
 # 🐍 Python Tutorial for Beginners – Full Course Notes
 
-🎥 **Source:** [Apna College YouTube Video](https://www.youtube.com/watch?v=ERCMXc8x7mc&ab_channel=ApnaCollege)  
+🎥 **Source:** Apna College  
 🧑‍💻 **Umair Saeed**  
 📅 **Started:** April 2025  
 📘 **Purpose:** Build strong Python skills for Cybersecurity, Automation & Ethical Hacking

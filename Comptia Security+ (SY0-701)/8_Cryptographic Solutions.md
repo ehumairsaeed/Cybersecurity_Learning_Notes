@@ -1,6 +1,5 @@
 # 🛡️ CompTIA Security+ Notes  
 **Course by:** Dion Training Solutions  
-**Platform:** Udemy 
 **Goal:** Build a solid foundation in cybersecurity.
 
 
