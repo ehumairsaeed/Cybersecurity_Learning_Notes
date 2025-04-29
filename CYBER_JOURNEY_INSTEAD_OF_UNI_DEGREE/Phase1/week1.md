@@ -1,4 +1,4 @@
-# 🧠 CCNA Free Full Course Notes (by David Bombal)
+# 🧠 CCNA Free Full Course Notes (by NetworkChuck)
 
 Welcome to your personal CCNA journey!
 
